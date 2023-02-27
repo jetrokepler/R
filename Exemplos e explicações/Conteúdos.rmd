@@ -1,0 +1,10 @@
+DIRETÓRIO DE TRABALHO
+
+Local onde o R busca por padrão os arquivos
+Ideal para não precisar informar caminhos absolutos
+
+- Saber o diretório padrão:
+```{r}
+getwd()
+```
+
